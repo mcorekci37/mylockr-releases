@@ -8,6 +8,6 @@ Signed and notarized builds of the **mylockr** desktop app, a zero-knowledge pas
 
 This repository contains release files only; it has no source code.
 
-- Website: https://mypass--4484.web.app
-- Privacy: https://mypass--4484.web.app/privacy
-- Support: https://mypass--4484.web.app/support
+- Website: https://mylockr.web.app
+- Privacy: https://mylockr.web.app/privacy
+- Support: https://mylockr.web.app/support
