@@ -1,10 +1,10 @@
-# mypass releases
+# mylockr releases
 
-Signed and notarized builds of the **mypass** desktop app, a zero-knowledge password manager.
+Signed and notarized builds of the **mylockr** desktop app, a zero-knowledge password manager (formerly named mypass).
 
-- **macOS** (Apple Silicon, macOS 11+; AutoFill needs macOS 14+): download the `.dmg` from the [latest release](https://github.com/mcorekci37/mypass-releases/releases/latest), open it and drag mypass to Applications.
-- Verify the download: `shasum -a 256 mypass_*.dmg` and compare with `SHA256SUMS` in the release.
-- The app updates itself from this repository (signed update packages, `latest.json`).
+- **macOS** (Apple Silicon, macOS 11+; AutoFill needs macOS 14+): download the `.dmg` from the [latest release](https://github.com/mcorekci37/mylockr-releases/releases/latest), open it and drag mylockr to Applications.
+- Verify the download: `shasum -a 256 mylockr_*.dmg` (`mypass_*.dmg` for 0.1.0) and compare with `SHA256SUMS` in the release.
+- The app updates itself from this repository (signed update packages, `latest.json`). Apps installed as mypass 0.1.0 keep updating through GitHub's redirect from the old repository name.
 
 This repository contains release files only; it has no source code.
 
